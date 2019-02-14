@@ -1,0 +1,16 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "ServerBHHQ",
+  "main": "0",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "T2N",
+  "license": "ISC",
+  "dependencies": {
+    "facebook-chat-api": "^1.6.1",
+    "request": "^2.88.0"
+  }
+}
